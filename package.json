@@ -1,0 +1,23 @@
+{
+  "name": "webdevelopmentproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snikers231/WebDevelopmentProject.git"
+  },
+  "author": "snikers231",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snikers231/WebDevelopmentProject/issues"
+  },
+  "homepage": "https://github.com/snikers231/WebDevelopmentProject#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
